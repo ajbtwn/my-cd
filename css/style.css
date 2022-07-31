@@ -1,0 +1,6 @@
+.tv {
+    background-image: no-repeat fixed center center;
+	background-size: cover;
+    position:relative;
+    box-sizing:border-box;
+}
